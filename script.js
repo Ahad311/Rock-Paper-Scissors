@@ -56,7 +56,7 @@ function playRound() {
 }
 
 function game() {
-    let playerScore = 0, computerScore = 0;
+    let playerScore = 0 , computerScore = 0;
     let winner;
     let gameRound;
     for (let i = 0; i < 5; i++){
